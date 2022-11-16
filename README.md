@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jujuwong21 (Juliette Wong)!
-- 🏫 I'm a recent 2021 graduate at Carnegie Mellon University, where I studied Math (Operations Research and Statistics Concentration) with minors in Human-Computer Interaction and Chinese Studies.
-- 🏦 I currently work at Mastercard Data & Services
+- 🏫 I graduated in 2021 Carnegie Mellon University, where I studied Math (Operations Research and Statistics Concentration) with minors in Human-Computer Interaction and Chinese Studies.
+- 🏦 I currently work at Mastercard Data & Services.
 - 📊 I am an aspiring data scientist or product manager. I am particularly interested in the intersection between data visualization, ML/statistical models, and design.
-- 💞️ In my free time, I enjoy dancing, designing, listening to K-Pop (Super Junior/SuperM/NCT Stan), and watching baseball (Mets and Pirates)!
+- 💞️ In my free time, I enjoy dancing, volunteering around NYC, listening to K-Pop (NCT/Stray Kids/Super Junior Stan), and watching baseball (go Mets)!
 - 📫 Feel free to reach out to me via email: juliette.wong1998@gmail.com. You can also visit [my website](https://www.juliettewong.com/)!
 
 <!---
